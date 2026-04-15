@@ -1,3 +1,3 @@
-exports.fecha = function(){
-return new Date().toLocaleString()
+exports.fecha = function () {
+    return new Date().toLocaleString()
 }

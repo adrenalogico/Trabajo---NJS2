@@ -1,5 +1,5 @@
-function mostrarMenu(){
-return `
+function mostrarMenu() {
+    return `
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 <div class="container">
 
@@ -21,7 +21,7 @@ return `
 </li>
 
 <li class="nav-item">
-<a class="nav-link" href="/calculo">Cálculo</a>
+<a class="nav-link" href="/calculo">Calculo</a>
 </li>
 
 <li class="nav-item">
