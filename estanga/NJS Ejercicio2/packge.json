@@ -1,0 +1,12 @@
+{
+  "name": "servidor-http-node",
+  "version": "1.0.0",
+  "description": "Servidor Node.js usando HTTP y File System",
+  "main": "servidor.js",
+  "type": "module",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

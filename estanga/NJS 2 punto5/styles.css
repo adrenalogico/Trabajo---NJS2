@@ -1,0 +1,12 @@
+body{
+background:#f5f7fa;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+max-width:900px;
+}
+
+h1{
+font-weight:bold;
+}
